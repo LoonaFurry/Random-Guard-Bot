@@ -122,4 +122,4 @@ async def on_message(message):
         await delete_duplicates(message)
         await bot.process_commands(message)
 
-bot.run('MTA2NzYyNTc1ODUwNTMxMjMyNg.GnxQ1R.zZBcDPOieil6lfoJGfUCafUGGcWhJkP61kssbg')
+bot.run('your-token-here')
